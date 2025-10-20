@@ -30,7 +30,7 @@
     {"player_id": "p018", "name": "Nader Zeddini", "team_id": "hertford_town", "goals": 0, "assists": 0, "minutes": 90,"clean sheets":0},
     {"player_id": "p019", "name": "Joseph Nardelli", "team_id": "hertford_town", "goals": 0, "assists": 0, "minutes": 90,"clean sheets":0},
     {"player_id": "p020", "name": "Benjamin Herd", "team_id": "hertford_town", "goals": 0, "assists": 0, "minutes": 90,"clean sheets":0},
-    {"player_id": "p021", "name": "Zen Cunningham", "team_id": "hertford_town", "goals": 1, "assists": 0, "minutes": 62,"clean sheets":0},{"player_id": "p015", "name": "James Callan", "team_id": "hertford_town", "goals": 0, "assists": 0, "minutes": 90,"clean sheets":0},
+    {"player_id": "p021", "name": "Zen Cunningham", "team_id": "hertford_town", "goals": 1, "assists": 0, "minutes": 62,"clean sheets":0},,
     {"player_id": "p022", "name": "Billy Mardell-Smith", "team_id": "hertford_town", "goals": 1, "assists": 0, "minutes": 67,"clean sheets":0},
     {"player_id": "p023", "name": "Noah Mosanya", "team_id": "hertford_town", "goals": 1, "assists": 0, "minutes": 90,"clean sheets":0},
     {"player_id": "p024", "name": "Billy Heaps", "team_id": "hertford_town", "goals": 0, "assists": 0, "minutes": 55,"clean sheets":0},
@@ -64,3 +64,4 @@
 
 
 }
+
